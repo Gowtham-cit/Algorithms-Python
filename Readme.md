@@ -5,7 +5,7 @@
 * Search
   * [Membership ](https://github.com/Gowtham-cit/Algorithms-Python/blob/main/Code/membership_operator.py)
   * [Linear](https://github.com/Gowtham-cit/Algorithms-Python/blob/main/Code/linear_search.py)
-  * [Binary]()
+  * [Binary](https://github.com/Gowtham-cit/Algorithms-Python/blob/main/Code/binary_search.py)
   * [Jummp]()
   * [Fibonacci]()
   * [Expoential]()
